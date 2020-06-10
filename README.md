@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="lpastana_banner.png" width=95% >
+  <img src="Banner_lpastana.png" width=95% >
 </p>
 
 
